@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Calc</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">X</string>
+    <string name="div">/</string>
+    <string name="dot">.</string>
+    <string name="clear">C</string>
+    <string name="title_activity_advance_mode">AdvanceMode</string>
+
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="i">i</string>
+
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+
+    <string name="mode">%</string>
+    <string name="factorial">!</string>
+    <string name="sqroot">√</string>
+    <string name="power">^</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+
+</resources>
