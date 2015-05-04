@@ -98,7 +98,6 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        // Save variables on screen orientation change
         outState.putDouble("OPERAND", calculatorFunction.getResult());
         outState.putDouble("MEMORY", calculatorFunction.getMemory());
     }
